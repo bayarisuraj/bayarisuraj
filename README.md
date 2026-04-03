@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayarisuraj
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... programming 
+- I am a fullstack developer on web
 - 💞️ I’m looking to collaborate on ...website developers 
 - 📫 How to reach me ... surajbayari5@gmail.com/0240757078
 - 😄 Pronouns: ...
